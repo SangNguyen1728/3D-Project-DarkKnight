@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90b6b01f104051f4aac91ba17fa62ae3
+timeCreated: 1521329730
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159419
+  packageName: TransformAnimation SXB
+  packageVersion: 2
+  assetPath: Assets/GhostSamurai_Animset/Model/Weapon/Materials/Material #2.mat
+  uploadId: 372686
